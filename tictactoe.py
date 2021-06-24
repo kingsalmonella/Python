@@ -1,7 +1,9 @@
 """ Tic Tac Toe
+https://hackr.io/blog/python-projects
+Jack Schroeder CNE 330
 ----------------------------------------
 """
-https://hackr.io/blog/python-projects
+
     
 import random
 import sys
