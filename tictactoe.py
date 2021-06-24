@@ -1,6 +1,8 @@
 """ Tic Tac Toe
 ----------------------------------------
 """
+https://hackr.io/blog/python-projects
+    
 import random
 import sys
 board=[i for i in range(0,9)]
